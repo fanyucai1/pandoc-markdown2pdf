@@ -20,5 +20,5 @@ pandoc TMB_MSI.md --pdf-engine=xelatex -o TMB_MSI.pdf \
     --toc
 ```
 
-转换过程中解决中文支持可参考：
+6. 转换过程中解决中文支持可参考：
 <https://blog.csdn.net/weixin_44908818/article/details/108659018>
